@@ -120,6 +120,6 @@ function Person(name, age, dni, sex, weight, height){
     this.dni = this.setDNI(dni);
     this.sex = this.setSex(sex);
     this.weight = this.setWeight(weight);
-    this.height = this.setWeight(height);
+    this.height = this.setHeight(height);
     
 }
